@@ -1,6 +1,6 @@
 {
   "name": "aicode-toolkit",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "Toolkit for Coding Agents to work reliably with repo of any size.",
   "main": "src/index.ts",
   "scripts": {
